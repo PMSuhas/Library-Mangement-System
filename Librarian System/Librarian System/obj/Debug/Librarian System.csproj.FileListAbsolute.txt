@@ -1,0 +1,15 @@
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\bin\Debug\Librarian System.exe.config
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\bin\Debug\Librarian System.exe
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\bin\Debug\Librarian System.pdb
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian System.csprojAssemblyReference.cache
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.Form1.resources
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.Properties.Resources.resources
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian System.csproj.GenerateResource.cache
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian System.csproj.CoreCompileInputs.cache
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian System.exe
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian System.pdb
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.Body.resources
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.AboutUserControl.resources
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.BooksUserControl.resources
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.BorrowersUserControl.resources
+C:\Users\Suhas PM\source\repos\Librarian System\Librarian System\obj\Debug\Librarian_System.TransactionUserControl.resources
